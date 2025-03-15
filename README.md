@@ -19,7 +19,7 @@ python3 -m venv GSoC
 cd GSoC/
 . bin/activate
 python -m pip install --upgrade pip wheel setuptools
-python -m pip install -e git+https://github.com/YOUR-GITHUB-USERNAME-HERE/GangaGSoC2024#egg=gangagsoc
+python -m pip install -e git+https://github.com/YOUR-GITHUB-USERNAME-HERE/GangaGSoC2025#egg=gangagsoc
 ```
 
 Through the dependency, this will install Ganga as well, such that you can work with it directly inside the virtualenv.
